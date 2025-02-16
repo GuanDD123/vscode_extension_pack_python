@@ -16,5 +16,9 @@
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "ms-python.autopep8"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuanDD123/vscode_extension_pack_python"
+  }
 }
