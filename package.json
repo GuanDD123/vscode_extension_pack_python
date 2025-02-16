@@ -3,7 +3,7 @@
   "name": "extension-pack-python",
   "displayName": "Extension Pack Python",
   "description": "Python 扩展包",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
